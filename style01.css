@@ -1,0 +1,42 @@
+h1 {
+  Width: 1600px;
+  font-size: 40px;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px 0px;
+  color: #b52128;
+}
+
+a:hover {
+  color: #b52128;
+}
+
+
+img[src] {
+  Width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+html {
+  font-size: 16px;
+  font-family: "Helvetica";
+}
+
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  color: #b52128;
+  Width: 800px;
+  margin: 0 auto;
+  padding: 10px 0px 0px 0px;
+  text-align: center;
+}
+
+html {
+  background-color: #d0ded0;
+}
+
